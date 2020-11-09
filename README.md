@@ -8,7 +8,7 @@
 virtualenv env
 pip install -r requirements.txt
 ```
-### Clone th repo
+### Clone the repo
 ```
 git clone https://github.com/rehanqasimk/ML-Projects.git
 ```
