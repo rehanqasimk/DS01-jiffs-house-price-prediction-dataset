@@ -1,1 +1,3 @@
 ./jiffs-house-price-prediction-dataset
+./venv
+./.ipynb_checkpoints
